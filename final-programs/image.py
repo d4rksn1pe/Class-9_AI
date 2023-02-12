@@ -1,3 +1,3 @@
 from PIL import Image
-img=Image. open(r"C:\Users\rawat.DESKTOP-IU5988O\Desktop\Mohnish\Images\Desktop Bckgrnds\a.jpg")
+img=Image. open(r"image_path")
 img.convert('1')
